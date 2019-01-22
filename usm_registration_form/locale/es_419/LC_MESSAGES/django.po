@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-22 13:20-0400\n"
+"PO-Revision-Date: 2019-01-22 13:21-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: campusromero_openedx_extensions/usm_registration_form/admin.py:17
+msgid "Custom Fields"
+msgstr "Campos personalizados"
+
+#: campusromero_openedx_extensions/usm_registration_form/forms.py:25
+#: campusromero_openedx_extensions/usm_registration_form/models.py:25
+msgid "RUT Format without periods: '99999999-k'."
+msgstr "El formato del RUT debe ser sin puntos: '99999999-k'."
+
+#: campusromero_openedx_extensions/usm_registration_form/forms.py:26
+msgid "Please add your RUT."
+msgstr "Ingrese su RUT."
+
+#: campusromero_openedx_extensions/usm_registration_form/models.py:28
+msgid "RUT"
+msgstr "RUT"
