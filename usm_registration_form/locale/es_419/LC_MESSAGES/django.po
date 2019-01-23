@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-22 13:20-0400\n"
-"PO-Revision-Date: 2019-01-22 13:21-0400\n"
+"POT-Creation-Date: 2019-01-23 00:45+0000\n"
+"PO-Revision-Date: 2019-01-22 20:46-0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es\n"
@@ -17,19 +17,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.7.1\n"
 
-#: campusromero_openedx_extensions/usm_registration_form/admin.py:17
+#: admin.py:17
 msgid "Custom Fields"
 msgstr "Campos personalizados"
 
-#: campusromero_openedx_extensions/usm_registration_form/forms.py:25
-#: campusromero_openedx_extensions/usm_registration_form/models.py:25
+#: forms.py:25 models.py:25
 msgid "RUT Format without periods: '99999999-k'."
 msgstr "El formato del RUT debe ser sin puntos: '99999999-k'."
 
-#: campusromero_openedx_extensions/usm_registration_form/forms.py:26
+#: forms.py:26
 msgid "Please add your RUT."
 msgstr "Ingrese su RUT."
 
-#: campusromero_openedx_extensions/usm_registration_form/models.py:28
+#: models.py:28
+msgid "Introduce your RUT without points: '12345678-9"
+msgstr "Ingrese su RUT sin puntos: '12345678-9'"
+
+#: models.py:29
 msgid "RUT"
 msgstr "RUT"

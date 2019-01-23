@@ -25,6 +25,7 @@ class CustomFormFields(models.Model):
         message=_("RUT Format without periods: '99999999-k'.")
         )
     rut = models.CharField(
+        help_text=_("Introduce your RUT without points: '12345678-9"),
         verbose_name=_("RUT"),
         validators=[rut_regex],
         max_length=11,
